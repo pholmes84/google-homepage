@@ -1,0 +1,1 @@
+This is a copy of the google homepage. It demonstrates a basic understanding of HTML and CSS by using these tools to create a copy of the design.
