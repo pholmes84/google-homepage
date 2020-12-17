@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    margin-top: 5em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.search {
+    text-align: center;
+}
+
+.searchbox {
+    margin-top: 1em;
+    margin-bottom: 2em;
+    border-radius: 25px;
+    width: 100%
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 1em;
+}
+
+li a {
+    text-decoration: none;
+    color: #000;
+}
+
+li.left {
+    float: left;
+}
+
+li.right {
+    float: right;
+}
